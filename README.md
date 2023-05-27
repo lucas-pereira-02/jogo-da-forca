@@ -1,2 +1,2 @@
-# Python-CDD
-Neste repositório estão alguns trabalhos desenvolvidos por mim mesmo com conhecimentos adquiridos no Com.Domínio Digital 4.0 formação de Desenvolvimento de Softwares
+# jogo-da-forca.python 
+Jogo da forca desenvolvido por mim em um dos desafios da formação do Com.Domínio Digital 4.0
